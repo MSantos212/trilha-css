@@ -11,7 +11,7 @@ header {
       rgba(49, 168, 221, 0.2) 50%,
       rgba(0, 0, 0, 0.6) 100%
     ),
-    url(banner.png);
+    url(../images/banner.png);
 
   width: auto;
   height: 600px;
@@ -79,7 +79,7 @@ button {
 #imagem {
   width: auto;
   height: 550px;
-  background: url(woman-code.png) no-repeat fixed;
+  background: url(../images/woman-code.png) no-repeat fixed;
   background-size: cover;
   position: relative;
   border: 1px solid #33a8db80;
